@@ -1,4 +1,2 @@
-assss555555aaaa
-aaaaaaaaaaaaaa
-zxcvbbbbbbbb
-cccccccc
+print('hello')
+import time
